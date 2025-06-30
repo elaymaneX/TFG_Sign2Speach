@@ -1,0 +1,6 @@
+__pycache__/
+*.npy
+*.tflite
+*.DS_Store
+.env
+*.ipynb_checkpoints
